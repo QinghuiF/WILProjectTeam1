@@ -105,4 +105,3 @@ D:\Github\WILProjectTeam1\WILTeam1\WILTeam1\obj\Debug\WILTeam1.csproj.CoreCompil
 D:\Github\WILProjectTeam1\WILTeam1\WILTeam1\obj\Debug\WILTeam1.csproj.CopyComplete
 D:\Github\WILProjectTeam1\WILTeam1\WILTeam1\obj\Debug\WILTeam1.dll
 D:\Github\WILProjectTeam1\WILTeam1\WILTeam1\obj\Debug\WILTeam1.pdb
-D:\Github\WILProjectTeam1\WILTeam1\WILTeam1\obj\Debug\WILTeam1.csproj.AssemblyReference.cache
